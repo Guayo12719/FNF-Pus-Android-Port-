@@ -3,7 +3,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				3,
+				0,
 				0
 			],
 			"fps": 24,
@@ -54,31 +54,6 @@
 			"anim": "singRIGHT",
 			"indices": [],
 			"name": "GF Right Note"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-2,
-				-21
-			],
-			"fps": 24,
-			"anim": "sad",
-			"indices": [
-				0,
-				1,
-				2,
-				3,
-				4,
-				5,
-				6,
-				7,
-				8,
-				9,
-				10,
-				11,
-				12
-			],
-			"name": "gf sad"
 		},
 		{
 			"loop": false,
@@ -139,7 +114,7 @@
 			"loop": true,
 			"offsets": [
 				45,
-				-8
+				-21
 			],
 			"fps": 24,
 			"anim": "hairBlow",
@@ -185,6 +160,31 @@
 			"anim": "scared",
 			"indices": [],
 			"name": "GF FEAR"
+		},
+		{
+			"offsets": [
+				-2,
+				-21
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "sad",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"name": "gf sad"
 		}
 	],
 	"no_antialiasing": false,
