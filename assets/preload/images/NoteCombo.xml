@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NoteCombo by antonio fnf.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="appear0000" x="614" y="847" width="648" height="351" frameX="0" frameY="-82" frameWidth="774" frameHeight="449"/>
+	<SubTexture name="appear0001" x="0" y="449" width="614" height="432" frameX="-160" frameY="0" frameWidth="774" frameHeight="449"/>
+	<SubTexture name="appear0002" x="632" y="432" width="589" height="415" frameX="-160" frameY="-17" frameWidth="774" frameHeight="449"/>
+	<SubTexture name="appear0003" x="632" y="0" width="607" height="432" frameX="-160" frameY="-17" frameWidth="774" frameHeight="449"/>
+	<SubTexture name="appear0004" x="632" y="0" width="607" height="432" frameX="-160" frameY="-17" frameWidth="774" frameHeight="449"/>
+	<SubTexture name="appear0005" x="632" y="0" width="607" height="432" frameX="-160" frameY="-17" frameWidth="774" frameHeight="449"/>
+	<SubTexture name="appear0006" x="632" y="0" width="607" height="432" frameX="-160" frameY="-17" frameWidth="774" frameHeight="449"/>
+	<SubTexture name="appear0007" x="632" y="0" width="607" height="432" frameX="-160" frameY="-17" frameWidth="774" frameHeight="449"/>
+	<SubTexture name="appear0008" x="632" y="0" width="607" height="432" frameX="-160" frameY="-17" frameWidth="774" frameHeight="449"/>
+	<SubTexture name="appear0009" x="632" y="0" width="607" height="432" frameX="-160" frameY="-17" frameWidth="774" frameHeight="449"/>
+	<SubTexture name="appear0010" x="632" y="0" width="607" height="432" frameX="-160" frameY="-17" frameWidth="774" frameHeight="449"/>
+	<SubTexture name="appear0011" x="632" y="0" width="607" height="432" frameX="-160" frameY="-17" frameWidth="774" frameHeight="449"/>
+	<SubTexture name="appear0012" x="632" y="0" width="607" height="432" frameX="-160" frameY="-17" frameWidth="774" frameHeight="449"/>
+	<SubTexture name="appear0013" x="632" y="0" width="607" height="432" frameX="-160" frameY="-17" frameWidth="774" frameHeight="449"/>
+	<SubTexture name="appear0014" x="632" y="0" width="607" height="432" frameX="-160" frameY="-17" frameWidth="774" frameHeight="449"/>
+	<SubTexture name="appear0015" x="632" y="0" width="607" height="432" frameX="-160" frameY="-17" frameWidth="774" frameHeight="449"/>
+	<SubTexture name="appear0016" x="632" y="0" width="607" height="432" frameX="-160" frameY="-17" frameWidth="774" frameHeight="449"/>
+	<SubTexture name="appear0017" x="632" y="0" width="607" height="432" frameX="-160" frameY="-17" frameWidth="774" frameHeight="449"/>
+	<SubTexture name="appear0018" x="632" y="0" width="607" height="432" frameX="-160" frameY="-17" frameWidth="774" frameHeight="449"/>
+	<SubTexture name="disappear0000" x="632" y="0" width="607" height="432" frameX="0" frameY="-17" frameWidth="774" frameHeight="449"/>
+	<SubTexture name="disappear0001" x="0" y="881" width="607" height="432" frameX="0" frameY="-17" frameWidth="892" frameHeight="449"/>
+	<SubTexture name="disappear0002" x="0" y="0" width="632" height="449" frameX="0" frameY="0" frameWidth="892" frameHeight="449"/>
+	<SubTexture name="disappear0003" x="607" y="1198" width="592" height="171" frameX="-212" frameY="-89" frameWidth="892" frameHeight="449"/>
+	<SubTexture name="disappear0004" x="0" y="1369" width="668" height="95" frameX="-224" frameY="-106" frameWidth="892" frameHeight="449"/>
+</TextureAtlas>
