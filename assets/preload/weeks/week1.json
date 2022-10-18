@@ -1,22 +1,50 @@
 {
-	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
+	"storyName": "daddy dearest",
+	"difficulties": "easy, normal, hard, erect",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
+	"weekBefore": "tutorial",
+	"startUnlocked": false,
 	"weekCharacters": [
 		"dad",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "stage",
-
-	"storyName": "Daddy Dearest",
-	"weekBefore": "tutorial",
-	"weekName": "Week 1",
-	"startUnlocked": true,
-
+	"songs": [
+		[
+			"Bopeebo",
+			"dad",
+			[
+				175,
+				102,
+				206
+			]
+		],
+		[
+			"Fresh",
+			"dad",
+			[
+				175,
+				102,
+				206
+			]
+		],
+		[
+			"Dad Battle",
+			"dad-mad",
+			[
+				175,
+				102,
+				206
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"hiddenUntilUnlocked": true,
+	"weekName": "week 1"
 }
